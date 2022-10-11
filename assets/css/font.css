@@ -1,0 +1,60 @@
+@font-face {
+    font-family: Exo2-Black;
+    src: url(../fonts/Exo2-Black.otf);
+}
+
+
+@font-face {
+    font-family: Exo2-Bold;
+    src: url(../fonts/Exo2-Bold.otf);
+}
+
+@font-face {
+    font-family: Exo2-ExtraBold;
+    src: url(../fonts/Exo2-ExtraBold.otf);
+}
+
+@font-face {
+    font-family: Exo2-ExtraLight;
+    src: url(../fonts/Exo2-ExtraLight.otf);
+}
+
+@font-face {
+    font-family: Exo2-Light;
+    src: url(../fonts/Exo2-Light.otf);
+}
+
+@font-face {
+    font-family: Exo2-Medium;
+    src: url(../fonts/Exo2-Medium.otf);
+}
+
+@font-face {
+    font-family: Exo2-Regular;
+    src: url(../fonts/Exo2-Regular.otf);
+}
+
+@font-face {
+    font-family: Exo2-SemiBold;
+    src: url(../fonts/Exo2-SemiBold.otf);
+}
+
+@font-face {
+    font-family: Exo2-Thin;
+    src: url(../fonts/Exo2-Thin.otf);
+}
+
+@font-face {
+    font-family: gothamrounded;
+    src: url(../fonts/gothamrounded-book.otf);
+}
+
+@font-face {
+    font-family: gothamrounded-light;
+    src: url(../fonts/GothamRounded-Light.otf);
+}
+
+@font-face {
+    font-family: gothamrounded-medium;
+    src: url(../fonts/GothamRounded-Medium.otf);
+}
